@@ -1,0 +1,7 @@
+alumno,qq,aa,ww,ss,ee
+profesor,pp,oo,ii,kk,ll
+alumno,kamil,guapo,dacio,66666987456,1458745685
+profesor,michiel,valdeburkl,dacio,524894651684,23164561641654
+alumno,rolando,asdf,hgfd,juhytre,rtghjk
+profesor,alberto,jhgfds,lkjhgtfrdsdghnjk,lkjuhytrerthujk,khytrerftgyhuj
+ 

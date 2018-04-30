@@ -1,0 +1,10 @@
+Contacto :nom_0,ape_0,dir_0,tel_0
+Contacto :nom_1,ape_1,dir_1,tel_1
+Contacto :nom_2,ape_2,dir_2,tel_2
+Contacto :nom_3,ape_3,dir_3,tel_3
+Contacto :nom_4,ape_4,dir_4,tel_4
+Contacto :nom_5,ape_5,dir_5,tel_5
+Contacto :nom_6,ape_6,dir_6,tel_6
+Contacto :nom_7,ape_7,dir_7,tel_7
+Contacto :nom_8,ape_8,dir_8,tel_8
+Contacto :nom_9,ape_9,dir_9,tel_9
