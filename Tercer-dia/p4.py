@@ -8,7 +8,7 @@ def leer(nombre):
     print(contenido)
     archivo.close()
 
-def escribir():
+def escribir(nombre):
     archivo = open(nombre, "w")
     archivo.write("Nueva linea\n")
     archivo.write(str(1))
@@ -76,7 +76,7 @@ def ejemSeek(nombre):
     print("---------")
     contenido = archivo.readline()
     print(contenido)
-    archivo.
+    archivo
 
 
 def ejemTell(nombre):
