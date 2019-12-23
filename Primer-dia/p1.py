@@ -21,7 +21,7 @@ del
 siglo
 '''
 
-print(boolean, type(boolean))
+print("La variable:", boolean, "Es del tipo:", type(boolean))
 print(entero, type(entero))
 print(comillas, type(comillas))
 print(complejo, type(complejo))
